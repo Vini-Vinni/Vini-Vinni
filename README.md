@@ -29,7 +29,7 @@ Busco desenvolver projetos práticos e melhorar continuamente minhas habilidades
 ---
 
 ## 📈 Objetivo
-Me tornar um desenvolvedor completo, com domínio em desenvolvimento backend e banco de dados, capaz de criar soluções eficientes, escaláveis e de qualidade, me destacando no mercado de tecnologia.
+Ser um desenvolvedor completo, com domínio em desenvolvimento backend e banco de dados, capaz de criar soluções eficientes, escaláveis e de qualidade, me destacando no mercado de tecnologia.
 
 ---
 
