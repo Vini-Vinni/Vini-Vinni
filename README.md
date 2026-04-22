@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Vinicius Pereira
 
 💻 Desenvolvedor 
-🚀 Focado em Python, Java, C, SQL
+🚀 Focado em Java, Python, C e SQL
 📚 Evoluindo a todo momento  
 
 ---
