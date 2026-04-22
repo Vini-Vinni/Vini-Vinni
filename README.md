@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Vinicius Pereira
 
 💻 Desenvolvedor 
-🚀 Focado em Java e C  
+🚀 Focado em Python, Java, C, SQL
 📚 Evoluindo a todo momento  
 
 ---
@@ -13,8 +13,11 @@ Busco desenvolver projetos práticos e melhorar minhas habilidades todos os dias
 ---
 
 ## 🚀 Tecnologias
-- Java ☕  
-- C ⚙️  
+- Java ☕
+- Python 🐍
+- C ⚙️
+- SQL 🗄️
+- Git & GitHub 🔧 
 
 ---
 
@@ -26,7 +29,7 @@ Busco desenvolver projetos práticos e melhorar minhas habilidades todos os dias
 ---
 
 ## 📈 Objetivo
-Desenvolver domínio em Java, C e Banco de Dados, criar soluções eficientes e me destacar como um profissional diferenciado no mercado.
+Me tornar um desenvolvedor completo, com domínio em desenvolvimento backend e banco de dados, capaz de criar soluções eficientes, escaláveis e de qualidade, me destacando no mercado de tecnologia.
 
 ---
 
