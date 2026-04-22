@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 Sou apaixonado por tecnologia e programação.  
-Busco desenvolver projetos práticos e melhorar minhas habilidades todos os dias.
+Busco desenvolver projetos práticos e melhorar continuamente minhas habilidades.
 
 ---
 
