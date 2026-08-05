@@ -1,16 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c78fa&height=120&section=header"/>
 
-<div align="center" width="100%">
-</div>
+<br>
 
-</div align="center">
+<div align="center">
+  
   <samp>
       <br>
       Hi there! I'm <b>Vinicius Pereira</b>
   </samp>
 </div>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3c78fa&width=900&size=22&center=true&lines=Hi;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+
+  <br>
+
+  <div align="center">
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3c78fa&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+  </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
