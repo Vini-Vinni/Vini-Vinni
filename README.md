@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47c1f5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c78fa&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Hi%2C+my+name+is+Vinicius+Pereira+de+Oliveira;I+am+an+Analysis+and+Systems+Development+student;Be+Welcome!+%3A))](https://git.io/typing-svg)
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3c78fa&width=900&size=22&center=true&lines=Hi;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
@@ -53,5 +57,5 @@
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47c1f5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c78fa&height=120&section=footer"/>
 
