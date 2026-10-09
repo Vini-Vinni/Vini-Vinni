@@ -19,6 +19,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vini-Vinni\&theme=dark\&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vini-Vinni\&show_icons=true\&theme=dark\&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Vinni\&layout=compact\&theme=dark\&hide_border=true)
+
 <div align="center">
   <samp>
     <b>
