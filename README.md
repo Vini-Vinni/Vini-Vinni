@@ -17,7 +17,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3c78fa&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
   </div>
 
-[![Gráfico de atividade do GitHub de Vini-Vinni](https://github-readme-activity-graph.vercel.app/graph?username=Vini-Vinni\&bg_color=000000\&color=3c78fa\&line=3c78fa\&point=ffffff\&area=true\&hide_border=true)](https://github.com/Vini-Vinni)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vini-Vinni\&theme=dark\&hide_border=true\&ring=3c78fa\&fire=3c78fa\&currStreakLabel=3c78fa\&sideLabels=3c78fa\&currStreakNum=3c78fa\&sideNums=3c78fa\&dates=3c78fa)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vini-Vinni\&show_icons=true\&theme=dark\&hide_border=true\&title_color=3c78fa\&icon_color=3c78fa\&text_color=3c78fa\&ring_color=3c78fa)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Vinni\&layout=compact\&theme=dark\&hide_border=true\&title_color=3c78fa\&text_color=3c78fa)
 
 <div align="center">
   <samp>
