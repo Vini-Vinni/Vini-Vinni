@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3c78fa&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
   </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-Vinni&bg_color=000000&color=3c78fa&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividades do GitHub de Vini-Vinni](https://github-readme-activity-graph.vercel.app/graph?username=Vini-Vinni\&bg_color=000000\&color=3c78fa\&line=07e9a5\&point=0a855c\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <samp>
